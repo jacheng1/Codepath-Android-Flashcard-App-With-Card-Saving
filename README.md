@@ -3,7 +3,7 @@
 ### App Description
 A program that implements the flashcard app, with saving capabilities via a database.
 
-### App Walk-though
+### App Walkthrough
 
 <img src="http://g.recordit.co/KeQQAxQOTr.gif" width=200><br>
 
